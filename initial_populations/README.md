@@ -1,3 +1,3 @@
-# Initial populations simulated with Easypop
-
-The file includes the simulated initial populations A and B obtained with Easypop, divided in folders considering the differentiation (Fst) between the two populations and the maximum number of alleles per locus. Each folder is labelled as Fxx_Axx, where F represents the value of Fst and A the maximum number of alleles.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c9fad1a38a1db092753c9c7e5fa8067fa7a6d64c69781df0b718b3ee1e6dfda
+size 368
